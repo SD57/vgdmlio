@@ -22,37 +22,44 @@
 <div class="author" ><span 
 class="cmr-12x-x-120">Dmitry Savin</span></div><br />
 <div class="date" ><span 
-class="cmr-12x-x-120">August 6, 2018</span></div>
+class="cmr-12x-x-120">August 7, 2018</span></div>
    </div>
    <h3 class="likesectionHead"><a 
  id="x1-1000"></a>Problem description</h3>
-<!--l. 43--><p class="noindent" >VecGeom&#x00A0;<span class="cite">[<a 
+<!--l. 43--><p class="noindent" ><a 
+href="https://gitlab.cern.ch/VecGeom/VecGeom" >VecGeom</a>&#x00A0;<span class="cite">[<a 
 href="#X10.1088/1742-6596/608/1/012023">1</a>]</span> is a new software toolkit for geometry modeling, which aims to
-exploit fine-grained parallelism for computing and provide a standard for
-geometry description in a range of HEP toolkits including GeantV and ROOT.
-The Geometry Description Markup Language&#x00A0;(GDML)&#x00A0;<span class="cite">[<a 
-href="#X10.1109/TNS.2006.881062">2</a>]</span> is a specialized
-XML-based language designed as an application-independent readable persistent
-format for describing the geometries of detectors associated with physics
-measurements. Currently I/O of VecGeom geometry is possible via ROOT
-geometry. We need to implement a standalone GDML I/O module to have
-geometry persistency without ROOT.
+exploit fine-grained parallelism for computing and provide a standard
+for geometry description in a range of high energy physics toolkits
+including <a 
+href="http://geant.cern.ch/" >GeantV</a>&#x00A0;<span class="cite">[<a 
+href="#X1742-6596-762-1-012019">2</a>]</span> and <a 
+href="https://root.cern.ch/" >ROOT</a>&#x00A0;<span class="cite">[<a 
+href="#XBrun:1997pa">3</a>]</span>. The Geometry Description Markup
+Language&#x00A0;(<a 
+href="https://cern.ch/gdml" >GDML</a>)&#x00A0;<span class="cite">[<a 
+href="#X10.1109/TNS.2006.881062">4</a>]</span> is a specialized XML-based language designed as an
+application-independent readable persistent format for describing the geometries
+of detectors associated with physics measurements. Currently I/O of VecGeom
+geometry is possible by converting transiently ROOT geometry. We need to
+implement a standalone GDML I/O module to have geometry persistency without
+ROOT.
 <!--l. 52--><p class="noindent" >
    <h3 class="likesectionHead"><a 
  id="x1-2000"></a>Methods</h3>
-<!--l. 53--><p class="noindent" >GDML is an XML schema, thus we can use standard tools for handling files and
-process the in-memory representation. Since the size of the files is relatively small
-and we need both reading and writing files, it is more convenient to work with
-the DOM XML representation. Also the validation of GDML files before
-processing allows to omit some checks, thus it is more convenient to use a
-validating XML parser. All the above motivates us to build the I/O on top of
-Xerces-C&#x00A0;<span class="cite">[<a 
-href="#XXercesC">3</a>]</span> parser. The Xerces-C library is distributed under the Apache 2.0
+<!--l. 53--><p class="noindent" >GDML is an XML schema, thus we can use standard tools for handling files
+and process the in-memory representation. Since the size of the files is
+relatively small and we need both reading and writing files, it is more
+convenient to work with the DOM XML representation. Also the validation
+of GDML files before processing allows to omit some checks, thus it is
+more convenient to use a validating XML parser. All the above motivates
                                                                           
 
                                                                           
-license which coincides with the most probable license of VecGeom (private
-communication).
+us to build the I/O on top of <a 
+href="https://xerces.apache.org/xerces-c/" >Xerces-C</a> parser. The Xerces-C library is
+distributed under the Apache 2.0 license which coincides with the license of
+VecGeom.
 <!--l. 63--><p class="indent" >   The library is split into the backend, the frontend and the middleware. The
 Xerces-C backend is used to read GDML files into DomDocument objects. The
 middleware traverses the DomDocument to construct VecGeom geometry when
@@ -63,7 +70,7 @@ load the geometry from a gdml file without exposing the details of the
 implementation.
 <!--l. 70--><p class="indent" >   The progress was tracked by a set of test examples from a single sphere to the
 full CMS geometry. The test files are listed in the Figure&#x00A0;<a 
-href="#x1-60041">1<!--tex4ht:ref: fig:flow --></a> below. A dotted line
+href="#x1-60051">1<!--tex4ht:ref: fig:flow --></a> below. A dotted line
 indicates that a file was made by slightly modifying another. A solid line indicates
 that a file has GDML tags from another file and thus was processed after it. The
 files are split in groups: solids that have only several attributes; advanced solids
@@ -73,7 +80,7 @@ used further in the gdml file; materials that determine the contents of the
 volumes.
 <!--l. 76--><p class="indent" >   The backend is tested by comparing loaded to DOM and then saved back by
 Xerces-C files with the original ones. The middleware is tested by comparing
-loaded to VecGeom and then exported via ROOT files with the original
+loaded to VecGeom and then exported by ROOT files with the original
 ones.
 <!--l. 79--><p class="noindent" >
    <h3 class="likesectionHead"><a 
@@ -89,11 +96,11 @@ the geometry of CMS LHC detector. The material information is stored in a
 separate structure but not used because VecGeom interface for querying materials
 in not defined yet.
 <!--l. 91--><p class="noindent" >
-   <h3 class="likesectionHead"><a 
- id="x1-4000"></a> Acknowledgements </h3>
                                                                           
 
                                                                           
+   <h3 class="likesectionHead"><a 
+ id="x1-4000"></a> Acknowledgements </h3>
 <!--l. 93--><p class="noindent" >Development sponsored by Google in Google Summer of Code 2018 under
 supervision of Andrei Gheata and Witold Pokorski.
 <!--l. 95--><p class="noindent" >
@@ -123,17 +130,33 @@ class="cmti-12">Journal of Physics: Conference</span>
 class="cmti-12">Series</span>, vol.&#x00A0;608, no.&#x00A0;1, p.&#x00A0;012023, 2015.
    </p>
    <p class="bibitem" ><span class="biblabel">
- [2]<span class="bibsp">&#x00A0;&#x00A0;&#x00A0;</span></span><a 
+ [2]<span class="bibsp">&#x00A0;&#x00A0;&#x00A0;</span></span>
+   <a 
+ id="X1742-6596-762-1-012019"></a>G.&#x00A0;Amadio, A.&#x00A0;Ananya, J.&#x00A0;Apostolakis, A.&#x00A0;Arora, M.&#x00A0;Bandieramonte,
+   A.&#x00A0;Bhattacharyya,  C.&#x00A0;Bianchini,  R.&#x00A0;Brun,  P.&#x00A0;Canal,  F.&#x00A0;Carminati,
+   L.&#x00A0;Duhem,  D.&#x00A0;Elvira,  A.&#x00A0;Gheata,  M.&#x00A0;Gheata,  I.&#x00A0;Goulas,  R.&#x00A0;Iope,
+   S.&#x00A0;Jun,  G.&#x00A0;Lima,  A.&#x00A0;Mohanty,  T.&#x00A0;Nikitina,  M.&#x00A0;Novak,  W.&#x00A0;Pokorski,
+   A.&#x00A0;Ribon,   R.&#x00A0;Sehgal,   O.&#x00A0;Shadura,   S.&#x00A0;Vallecorsa,   S.&#x00A0;Wenzel,   and
+   Y.&#x00A0;Zhang,  &#8220;Geantv:  from  cpu  to  accelerators,&#8221;  <span 
+class="cmti-12">Journal  of  Physics:</span>
+   <span 
+class="cmti-12">Conference Series</span>, vol.&#x00A0;762, no.&#x00A0;1, p.&#x00A0;012019, 2016.
+   </p>
+                                                                          
+
+                                                                          
+   <p class="bibitem" ><span class="biblabel">
+ [3]<span class="bibsp">&#x00A0;&#x00A0;&#x00A0;</span></span><a 
+ id="XBrun:1997pa"></a>R.&#x00A0;Brun  and  F.&#x00A0;Rademakers,  &#8220;ROOT:  An  object  oriented  data
+   analysis framework,&#8221; <span 
+class="cmti-12">Nucl. Instrum. Meth.</span>, vol.&#x00A0;A389, pp.&#x00A0;81&#8211;86, 1997.
+   </p>
+   <p class="bibitem" ><span class="biblabel">
+ [4]<span class="bibsp">&#x00A0;&#x00A0;&#x00A0;</span></span><a 
  id="X10.1109/TNS.2006.881062"></a>R.&#x00A0;Chytracek,                                                   J.&#x00A0;McCormick,
    W.&#x00A0;Pokorski, and G.&#x00A0;Santin, &#8220;Geometry description markup language
    for physics simulation and analysis applications,&#8221; vol.&#x00A0;53, pp.&#x00A0;2892 &#8211;
    2896, 11 2006.
-   </p>
-   <p class="bibitem" ><span class="biblabel">
- [3]<span class="bibsp">&#x00A0;&#x00A0;&#x00A0;</span></span><a 
- id="XXercesC"></a><a 
-href="https://xerces.apache.org/xerces-c/" class="url" ><span 
-class="cmtt-12">https://xerces.apache.org/xerces-c/</span></a>.
 </p>
    </div>
 <!--l. 104--><p class="indent" >   <hr class="figure"><div class="figure" 
@@ -142,7 +165,7 @@ class="cmtt-12">https://xerces.apache.org/xerces-c/</span></a>.
 
                                                                           
 <a 
- id="x1-60041"></a>
+ id="x1-60051"></a>
                                                                           
 
                                                                           
@@ -152,9 +175,10 @@ class="cmtt-12">https://xerces.apache.org/xerces-c/</span></a>.
 <object data="flow.svg" type="image/svg+xml">
   <img src="flow.png" />
 </object>
+
 <br /> <div class="caption" 
 ><span class="id">Figure&#x00A0;1: </span><span  
-class="content">Test files and dependencies between them</span></div><!--tex4ht:label?: x1-60041 -->
+class="content">Test files and dependencies between them</span></div><!--tex4ht:label?: x1-60051 -->
                                                                           
 
                                                                           
