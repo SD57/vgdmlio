@@ -22,7 +22,7 @@
 <div class="author" ><span 
 class="cmr-12x-x-120">Dmitry Savin</span></div><br />
 <div class="date" ><span 
-class="cmr-12x-x-120">August 7, 2018</span></div>
+class="cmr-12x-x-120">August 11, 2018</span></div>
    </div>
    <h3 class="likesectionHead"><a 
  id="x1-1000"></a>Problem description</h3>
@@ -76,16 +76,19 @@ that a file has GDML tags from another file and thus was processed after it. The
 files are split in groups: solids that have only several attributes; advanced solids
 that has a variable number a parameters and thus require child node in the
 description; Boolean made by combining other solids; definitions of parameters
-used further in the gdml file; materials that determine the contents of the
-volumes.
-<!--l. 76--><p class="indent" >   The backend is tested by comparing loaded to DOM and then saved back by
+used further in the gdml file; materials that determine the contents of
+the volumes. The successfully parsed examples are colored in green, the
+examples with GDML volumes not supported by VecGeom are colored
+in blue, and the supported but not yet parsed examples are colored in
+red.
+<!--l. 77--><p class="indent" >   The backend is tested by comparing loaded to DOM and then saved back by
 Xerces-C files with the original ones. The middleware is tested by comparing
 loaded to VecGeom and then exported by ROOT files with the original
 ones.
-<!--l. 79--><p class="noindent" >
+<!--l. 80--><p class="noindent" >
    <h3 class="likesectionHead"><a 
  id="x1-3000"></a>Result</h3>
-<!--l. 81--><p class="noindent" >The module is <a 
+<!--l. 82--><p class="noindent" >The module is <a 
 href="https://gitlab.cern.ch/VecGeom/VecGeom/tree/master/persistency/gdml" >incorporated</a> in the main VecGeom repository. The relevant
 commits and merged requests are labeled with <a 
 href="https://gitlab.cern.ch/search?utf8=%E2%9C%93&search=%5BVECGEOM-427%5D&group_id=&project_id=981&scope=merge_requests&repository_ref=" >[VECGEOM-427]</a>. To build it
@@ -95,18 +98,18 @@ supported by VecGeom are processed successfully. Those are enough to process
 the geometry of CMS LHC detector. The material information is stored in a
 separate structure but not used because VecGeom interface for querying materials
 in not defined yet.
-<!--l. 91--><p class="noindent" >
                                                                           
 
                                                                           
+<!--l. 92--><p class="noindent" >
    <h3 class="likesectionHead"><a 
  id="x1-4000"></a> Acknowledgements </h3>
-<!--l. 93--><p class="noindent" >Development sponsored by Google in Google Summer of Code 2018 under
+<!--l. 94--><p class="noindent" >Development sponsored by Google in Google Summer of Code 2018 under
 supervision of Andrei Gheata and Witold Pokorski.
-<!--l. 95--><p class="noindent" >
+<!--l. 96--><p class="noindent" >
    <h3 class="likesectionHead"><a 
  id="x1-5000"></a> Links </h3>
-<!--l. 97--><p class="noindent" ><a 
+<!--l. 98--><p class="noindent" ><a 
 href="https://gitlab.cern.ch/VecGeom/VecGeom/tree/master/persistency/gdml" >GDML I/O module in VecGeom main repository</a><br 
 class="newline" /><a 
 href="https://gitlab.cern.ch/search?utf8=%E2%9C%93&search=%5BVECGEOM-427%5D&group_id=&project_id=981&scope=merge_requests&repository_ref=" >Relevant merge requests</a><br 
@@ -159,7 +162,7 @@ class="cmti-12">Nucl. Instrum. Meth.</span>, vol.&#x00A0;A389, pp.&#x00A0;81&#82
    2896, 11 2006.
 </p>
    </div>
-<!--l. 104--><p class="indent" >   <hr class="figure"><div class="figure" 
+<!--l. 105--><p class="indent" >   <hr class="figure"><div class="figure" 
 >
                                                                           
 
@@ -174,15 +177,14 @@ class="cmti-12">Nucl. Instrum. Meth.</span>, vol.&#x00A0;A389, pp.&#x00A0;81&#82
                                                                           
 <object data="flow.svg" type="image/svg+xml">
   <img src="flow.png" />
-</object>
-
-<br /> <div class="caption" 
+</object><br />
+<div class="caption" 
 ><span class="id">Figure&#x00A0;1: </span><span  
 class="content">Test files and dependencies between them</span></div><!--tex4ht:label?: x1-60051 -->
                                                                           
 
                                                                           
-<!--l. 111--><p class="indent" >   </div><hr class="endfigure">
+<!--l. 112--><p class="indent" >   </div><hr class="endfigure">
     
 </body></html> 
 

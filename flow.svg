@@ -5,574 +5,574 @@
  -->
 <!-- Title: gdmlFlow Pages: 1 -->
 <svg preserveAspectRatio="xMinYMin meet"
- viewBox="0.00 0.00 1029.37 1395.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 1017.67 1395.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1391)">
 <title>gdmlFlow</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1391 1025.3733,-1391 1025.3733,4 -4,4"/>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1391 1013.6744,-1391 1013.6744,4 -4,4"/>
 <g id="clust1" class="cluster">
 <title>cluster_defines</title>
-<polygon fill="none" stroke="#000000" points="585.0567,-663 585.0567,-1062 754.4431,-1062 754.4431,-663 585.0567,-663"/>
-<text text-anchor="middle" x="669.7499" y="-1046.8" font-family="sans-serif" font-size="14.00" fill="#000000">Definitions</text>
+<polygon fill="none" stroke="#000000" points="577.2574,-663 577.2574,-1062 744.0441,-1062 744.0441,-663 577.2574,-663"/>
+<text text-anchor="middle" x="660.6507" y="-1046.8" font-family="sans-serif" font-size="14.00" fill="#000000">Definitions</text>
 </g>
 <g id="clust3" class="cluster">
 <title>cluster_solids</title>
-<polygon fill="none" stroke="#000000" points="35.3491,-8 35.3491,-1379 345.1231,-1379 345.1231,-8 35.3491,-8"/>
-<text text-anchor="middle" x="190.2361" y="-1363.8" font-family="sans-serif" font-size="14.00" fill="#000000">Simple solids</text>
+<polygon fill="none" stroke="#000000" points="35.3491,-8 35.3491,-1379 341.2234,-1379 341.2234,-8 35.3491,-8"/>
+<text text-anchor="middle" x="188.2863" y="-1363.8" font-family="sans-serif" font-size="14.00" fill="#000000">Simple solids</text>
 </g>
 <g id="clust5" class="cluster">
 <title>cluster_advancedsolids</title>
-<polygon fill="none" stroke="#000000" points="795.8912,-804 795.8912,-933 1013.3733,-933 1013.3733,-804 795.8912,-804"/>
-<text text-anchor="middle" x="904.6323" y="-917.8" font-family="sans-serif" font-size="14.00" fill="#000000">Advanced solids</text>
+<polygon fill="none" stroke="#000000" points="785.4921,-804 785.4921,-933 1001.6744,-933 1001.6744,-804 785.4921,-804"/>
+<text text-anchor="middle" x="893.5833" y="-917.8" font-family="sans-serif" font-size="14.00" fill="#000000">Advanced solids</text>
 </g>
 <g id="clust7" class="cluster">
 <title>cluster_boolean</title>
-<polygon fill="none" stroke="#000000" points="806.9402,-559 806.9402,-796 1002.3243,-796 1002.3243,-559 806.9402,-559"/>
-<text text-anchor="middle" x="904.6323" y="-780.8" font-family="sans-serif" font-size="14.00" fill="#000000">Boolean solids</text>
+<polygon fill="none" stroke="#000000" points="798.491,-559 798.491,-796 988.6755,-796 988.6755,-559 798.491,-559"/>
+<text text-anchor="middle" x="893.5833" y="-780.8" font-family="sans-serif" font-size="14.00" fill="#000000">Boolean solids</text>
 </g>
 <g id="clust9" class="cluster">
 <title>cluster_material</title>
-<polygon fill="none" stroke="#000000" points="365.1231,-1070 365.1231,-1199 999.0746,-1199 999.0746,-1070 365.1231,-1070"/>
-<text text-anchor="middle" x="682.0988" y="-1183.8" font-family="sans-serif" font-size="14.00" fill="#000000">Materials</text>
+<polygon fill="none" stroke="#000000" points="361.2234,-1070 361.2234,-1199 986.7257,-1199 986.7257,-1070 361.2234,-1070"/>
+<text text-anchor="middle" x="673.9746" y="-1183.8" font-family="sans-serif" font-size="14.00" fill="#000000">Materials</text>
 </g>
 <!-- aConstant -->
 <g id="node1" class="node">
 <title>aConstant</title>
-<ellipse fill="none" stroke="#000000" cx="669.7499" cy="-743" rx="58.4896" ry="18"/>
-<text text-anchor="middle" x="669.7499" y="-739.3" font-family="sans-serif" font-size="14.00" fill="#000000">aConstant</text>
+<ellipse fill="none" stroke="#000000" cx="660.6507" cy="-743" rx="57.6901" ry="18"/>
+<text text-anchor="middle" x="660.6507" y="-739.3" font-family="sans-serif" font-size="14.00" fill="#006400">aConstant</text>
 </g>
 <!-- aVariable -->
 <g id="node2" class="node">
 <title>aVariable</title>
-<ellipse fill="none" stroke="#000000" cx="669.7499" cy="-689" rx="53.8905" ry="18"/>
-<text text-anchor="middle" x="669.7499" y="-685.3" font-family="sans-serif" font-size="14.00" fill="#000000">aVariable</text>
+<ellipse fill="none" stroke="#000000" cx="660.6507" cy="-689" rx="54.6905" ry="18"/>
+<text text-anchor="middle" x="660.6507" y="-685.3" font-family="sans-serif" font-size="14.00" fill="#006400">aVariable</text>
 </g>
 <!-- auxiliary -->
-<g id="node43" class="node">
+<g id="node44" class="node">
 <title>auxiliary</title>
-<ellipse fill="none" stroke="#000000" cx="904.6323" cy="-959" rx="51.1914" ry="18"/>
-<text text-anchor="middle" x="904.6323" y="-955.3" font-family="sans-serif" font-size="14.00" fill="#000000">auxiliary</text>
+<ellipse fill="none" stroke="#000000" cx="893.5833" cy="-959" rx="50.0912" ry="18"/>
+<text text-anchor="middle" x="893.5833" y="-955.3" font-family="sans-serif" font-size="14.00" fill="#b22222">auxiliary</text>
 </g>
 <!-- aVariable&#45;&gt;auxiliary -->
 <g id="edge46" class="edge">
 <title>aVariable&#45;&gt;auxiliary</title>
-<path fill="none" stroke="#000000" d="M723.0494,-692.2616C739.681,-695.962 756.6059,-702.9807 767.8912,-716 832.7405,-790.8134 728.5054,-864.463 795.8912,-937 808.0553,-950.094 825.6874,-956.5862 843.2255,-959.5421"/>
-<polygon fill="#000000" stroke="#000000" points="843.127,-963.0594 853.4988,-960.8971 844.0424,-956.1195 843.127,-963.0594"/>
+<path fill="none" stroke="#000000" d="M714.2677,-692.6565C730.3525,-696.4258 746.596,-703.386 757.4921,-716 822.213,-790.9245 718.1487,-864.4236 785.4921,-937 797.7421,-950.2019 815.5788,-956.6731 833.2445,-959.5771"/>
+<polygon fill="#000000" stroke="#000000" points="833.2193,-963.1023 843.5824,-960.8987 834.107,-956.1588 833.2193,-963.1023"/>
 </g>
 <!-- aQuantity -->
 <g id="node3" class="node">
 <title>aQuantity</title>
-<ellipse fill="none" stroke="#000000" cx="669.7499" cy="-797" rx="57.3905" ry="18"/>
-<text text-anchor="middle" x="669.7499" y="-793.3" font-family="sans-serif" font-size="14.00" fill="#000000">aQuantity</text>
+<ellipse fill="none" stroke="#000000" cx="660.6507" cy="-797" rx="55.7903" ry="18"/>
+<text text-anchor="middle" x="660.6507" y="-793.3" font-family="sans-serif" font-size="14.00" fill="#006400">aQuantity</text>
 </g>
 <!-- aPosition -->
 <g id="node4" class="node">
 <title>aPosition</title>
-<ellipse fill="none" stroke="#000000" cx="669.7499" cy="-851" rx="53.0913" ry="18"/>
-<text text-anchor="middle" x="669.7499" y="-847.3" font-family="sans-serif" font-size="14.00" fill="#000000">aPosition</text>
+<ellipse fill="none" stroke="#000000" cx="660.6507" cy="-851" rx="51.9908" ry="18"/>
+<text text-anchor="middle" x="660.6507" y="-847.3" font-family="sans-serif" font-size="14.00" fill="#006400">aPosition</text>
 </g>
 <!-- oneTesselatedSolid -->
 <g id="node33" class="node">
 <title>oneTesselatedSolid</title>
-<ellipse fill="none" stroke="#000000" cx="904.6323" cy="-884" rx="100.9827" ry="18"/>
-<text text-anchor="middle" x="904.6323" y="-880.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneTesselatedSolid</text>
+<ellipse fill="none" stroke="#000000" cx="893.5833" cy="-884" rx="100.1823" ry="18"/>
+<text text-anchor="middle" x="893.5833" y="-880.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneTesselatedSolid</text>
 </g>
 <!-- aPosition&#45;&gt;oneTesselatedSolid -->
 <g id="edge40" class="edge">
 <title>aPosition&#45;&gt;oneTesselatedSolid</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M718.989,-857.9179C738.6308,-860.6775 762.1676,-863.9843 785.7805,-867.3018"/>
-<polygon fill="#000000" stroke="#000000" points="785.5041,-870.7973 795.8938,-868.7227 786.4781,-863.8654 785.5041,-870.7973"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M708.9145,-857.8376C728.4218,-860.6013 751.8705,-863.9233 775.4121,-867.2585"/>
+<polygon fill="#000000" stroke="#000000" points="775.1038,-870.7496 785.4959,-868.687 776.0857,-863.8189 775.1038,-870.7496"/>
 </g>
 <!-- solidUnion -->
 <g id="node35" class="node">
 <title>solidUnion</title>
-<ellipse fill="none" stroke="#000000" cx="904.6323" cy="-585" rx="60.3893" ry="18"/>
-<text text-anchor="middle" x="904.6323" y="-581.3" font-family="sans-serif" font-size="14.00" fill="#000000">solidUnion</text>
+<ellipse fill="none" stroke="#000000" cx="893.5833" cy="-585" rx="59.2899" ry="18"/>
+<text text-anchor="middle" x="893.5833" y="-581.3" font-family="sans-serif" font-size="14.00" fill="#006400">solidUnion</text>
 </g>
 <!-- aPosition&#45;&gt;solidUnion -->
 <g id="edge41" class="edge">
 <title>aPosition&#45;&gt;solidUnion</title>
-<path fill="none" stroke="#000000" d="M722.2426,-847.8726C739.1161,-844.2153 756.3973,-837.1893 767.8912,-824 830.3319,-752.3491 732.5563,-682.8617 795.8912,-612 796.9234,-610.8452 797.9965,-609.7361 799.107,-608.671"/>
-<polygon fill="#000000" stroke="#000000" points="801.4182,-611.3023 806.9426,-602.2618 796.9862,-605.8841 801.4182,-611.3023"/>
+<path fill="none" stroke="#000000" d="M711.9567,-847.8216C728.7673,-844.1808 746.0476,-837.1782 757.4921,-824 819.8099,-752.2421 722.2071,-682.9062 785.4921,-612 787.0468,-610.2581 788.6952,-608.6205 790.425,-607.0811"/>
+<polygon fill="#000000" stroke="#000000" points="792.6536,-609.7833 798.4927,-600.9427 788.415,-604.2125 792.6536,-609.7833"/>
 </g>
 <!-- aPosition&#45;&gt;auxiliary -->
 <g id="edge39" class="edge">
 <title>aPosition&#45;&gt;auxiliary</title>
-<path fill="none" stroke="#000000" d="M720.5952,-856.4389C737.1327,-860.3032 754.6243,-866.8688 767.8912,-878 790.1268,-896.656 773.0267,-919.1203 795.8912,-937 809.273,-947.4643 826.3407,-953.3296 842.9665,-956.5227"/>
-<polygon fill="#000000" stroke="#000000" points="842.7936,-960.0402 853.2244,-958.1828 843.912,-953.1301 842.7936,-960.0402"/>
+<path fill="none" stroke="#000000" d="M710.3306,-856.452C726.7963,-860.3117 744.2739,-866.871 757.4921,-878 779.6957,-896.6941 762.6381,-919.107 785.4921,-937 799.1686,-947.7076 816.7221,-953.5894 833.6887,-956.721"/>
+<polygon fill="#000000" stroke="#000000" points="833.157,-960.1803 843.5768,-958.2626 834.2354,-953.2638 833.157,-960.1803"/>
 </g>
 <!-- aRotation -->
 <g id="node5" class="node">
 <title>aRotation</title>
-<ellipse fill="none" stroke="#000000" cx="669.7499" cy="-959" rx="55.7903" ry="18"/>
-<text text-anchor="middle" x="669.7499" y="-955.3" font-family="sans-serif" font-size="14.00" fill="#000000">aRotation</text>
+<ellipse fill="none" stroke="#000000" cx="660.6507" cy="-959" rx="55.4913" ry="18"/>
+<text text-anchor="middle" x="660.6507" y="-955.3" font-family="sans-serif" font-size="14.00" fill="#006400">aRotation</text>
 </g>
 <!-- aRotation&#45;&gt;solidUnion -->
 <g id="edge42" class="edge">
 <title>aRotation&#45;&gt;solidUnion</title>
-<path fill="none" stroke="#000000" d="M724.8796,-955.6375C741.0283,-951.8648 757.1996,-944.8283 767.8912,-932 813.5928,-877.1651 749.5051,-666.2571 795.8912,-612 796.9145,-610.8031 797.9818,-609.6548 799.0894,-608.5534"/>
-<polygon fill="#000000" stroke="#000000" points="801.5454,-611.061 806.9425,-601.9438 797.0379,-605.7054 801.5454,-611.061"/>
+<path fill="none" stroke="#000000" d="M715.0642,-955.4706C730.9998,-951.6884 746.9539,-944.6885 757.4921,-932 803.0997,-877.0868 739.1442,-666.2897 785.4921,-612 787.0318,-610.1965 788.672,-608.5038 790.3994,-606.9154"/>
+<polygon fill="#000000" stroke="#000000" points="792.7619,-609.5114 798.4916,-600.5995 788.455,-603.9931 792.7619,-609.5114"/>
 </g>
 <!-- aRotation&#45;&gt;auxiliary -->
 <g id="edge38" class="edge">
 <title>aRotation&#45;&gt;auxiliary</title>
-<path fill="none" stroke="#000000" d="M725.7117,-959C760.909,-959 806.3665,-959 842.6538,-959"/>
-<polygon fill="#000000" stroke="#000000" points="843.1131,-962.5001 853.113,-959 843.113,-955.5001 843.1131,-962.5001"/>
+<path fill="none" stroke="#000000" d="M716.1479,-959C751.298,-959 796.7664,-959 832.8755,-959"/>
+<polygon fill="#000000" stroke="#000000" points="833.2763,-962.5001 843.2762,-959 833.2762,-955.5001 833.2763,-962.5001"/>
 </g>
 <!-- scaledBox -->
 <g id="node6" class="node">
 <title>scaledBox</title>
-<ellipse fill="none" stroke="#000000" cx="669.7499" cy="-1013" rx="57.6901" ry="18"/>
-<text text-anchor="middle" x="669.7499" y="-1009.3" font-family="sans-serif" font-size="14.00" fill="#000000">scaledBox</text>
+<ellipse fill="none" stroke="#000000" cx="660.6507" cy="-1013" rx="57.6901" ry="18"/>
+<text text-anchor="middle" x="660.6507" y="-1009.3" font-family="sans-serif" font-size="14.00" fill="#006400">scaledBox</text>
 </g>
 <!-- scaledPhysvol -->
 <g id="node7" class="node">
 <title>scaledPhysvol</title>
-<ellipse fill="none" stroke="#000000" cx="669.7499" cy="-905" rx="76.8869" ry="18"/>
-<text text-anchor="middle" x="669.7499" y="-901.3" font-family="sans-serif" font-size="14.00" fill="#000000">scaledPhysvol</text>
+<ellipse fill="none" stroke="#000000" cx="660.6507" cy="-905" rx="75.2868" ry="18"/>
+<text text-anchor="middle" x="660.6507" y="-901.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">scaledPhysvol</text>
 </g>
 <!-- oneOrb -->
 <g id="node8" class="node">
 <title>oneOrb</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-790" rx="45.4919" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-786.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneOrb</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-790" rx="45.4919" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-786.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneOrb</text>
 </g>
 <!-- oneOrb&#45;&gt;aConstant -->
 <g id="edge26" class="edge">
 <title>oneOrb&#45;&gt;aConstant</title>
-<path fill="none" stroke="#000000" d="M234.4881,-785.6626C319.1323,-777.3661 504.3687,-759.21 603.7072,-749.4732"/>
-<polygon fill="#000000" stroke="#000000" points="604.3119,-752.9308 613.9228,-748.4719 603.629,-745.9642 604.3119,-752.9308"/>
+<path fill="none" stroke="#000000" d="M232.7252,-785.5784C316.4605,-777.2467 497.9369,-759.1899 595.4893,-749.4835"/>
+<polygon fill="#000000" stroke="#000000" points="595.9186,-752.9582 605.5229,-748.4852 595.2254,-745.9926 595.9186,-752.9582"/>
 </g>
 <!-- oneOrb&#45;&gt;aVariable -->
 <g id="edge27" class="edge">
 <title>oneOrb&#45;&gt;aVariable</title>
-<path fill="none" stroke="#000000" d="M234.9502,-786.1528C266.4322,-782.5001 309.1965,-775.6162 345.1231,-763 354.6947,-759.6388 355.6053,-755.5109 365.1231,-752 446.5971,-721.9463 545.9058,-704.7916 608.5003,-696.1889"/>
-<polygon fill="#000000" stroke="#000000" points="609.1589,-699.6319 618.6035,-694.8309 608.2264,-692.6943 609.1589,-699.6319"/>
+<path fill="none" stroke="#000000" d="M232.7722,-786.041C263.8258,-782.3452 305.8763,-775.4556 341.2234,-763 350.7914,-759.6284 351.7117,-755.5272 361.2234,-752 440.7236,-722.5189 537.4886,-705.3095 599.0843,-696.5297"/>
+<polygon fill="#000000" stroke="#000000" points="599.6151,-699.9896 609.0354,-695.1411 598.6476,-693.0568 599.6151,-699.9896"/>
 </g>
 <!-- oneOrb&#45;&gt;aQuantity -->
 <g id="edge28" class="edge">
 <title>oneOrb&#45;&gt;aQuantity</title>
-<path fill="none" stroke="#000000" d="M235.7799,-790.6649C320.5634,-791.9025 502.9744,-794.5654 602.169,-796.0134"/>
-<polygon fill="#000000" stroke="#000000" points="602.3296,-799.5161 612.3796,-796.1625 602.4318,-792.5168 602.3296,-799.5161"/>
+<path fill="none" stroke="#000000" d="M234.0078,-790.6775C318.0889,-791.9236 497.5282,-794.5827 594.7567,-796.0235"/>
+<polygon fill="#000000" stroke="#000000" points="594.7117,-799.5231 604.7625,-796.1718 594.8155,-792.5239 594.7117,-799.5231"/>
 </g>
 <!-- oneSphere -->
 <g id="node9" class="node">
 <title>oneSphere</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-520" rx="60.3893" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-516.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneSphere</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-520" rx="61.99" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-516.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneSphere</text>
 </g>
 <!-- oneOrb&#45;&gt;oneSphere -->
 <g id="edge1" class="edge">
 <title>oneOrb&#45;&gt;oneSphere</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M147.2023,-796.1536C104.9901,-799.4024 43.2997,-795.9888 17.3491,-754 -5.783,-716.5714 -5.783,-593.4286 17.3491,-556 38.8035,-521.2861 84.6862,-512.9384 123.7945,-512.9237"/>
-<polygon fill="#000000" stroke="#000000" points="124.0338,-516.4284 134.0943,-513.1065 124.1581,-509.4295 124.0338,-516.4284"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M145.3535,-795.9949C103.6322,-799.0433 42.9395,-795.4061 17.3491,-754 -5.783,-716.5714 -5.783,-593.4286 17.3491,-556 38.2058,-522.2533 82.3794,-513.5947 120.5953,-513.1965"/>
+<polygon fill="#000000" stroke="#000000" points="120.6496,-516.6969 130.6768,-513.2756 120.7047,-509.6971 120.6496,-516.6969"/>
 </g>
 <!-- oneBox -->
 <g id="node10" class="node">
 <title>oneBox</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-952" rx="44.6926" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-948.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneBox</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-952" rx="45.4919" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-948.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneBox</text>
 </g>
 <!-- oneOrb&#45;&gt;oneBox -->
 <g id="edge6" class="edge">
 <title>oneOrb&#45;&gt;oneBox</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M147.2023,-783.8464C104.9901,-780.5976 43.2997,-784.0112 17.3491,-826 -3.6801,-860.026 -3.6801,-881.974 17.3491,-916 41.4209,-954.9489 96.2447,-960.7059 137.7486,-958.7424"/>
-<polygon fill="#000000" stroke="#000000" points="138.2285,-962.2191 147.9866,-958.0923 137.7848,-955.2331 138.2285,-962.2191"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M145.3535,-784.0051C103.6322,-780.9567 42.9395,-784.5939 17.3491,-826 -3.6801,-860.026 -3.6801,-881.974 17.3491,-916 40.9402,-954.1712 94.3632,-960.2445 135.2535,-958.5721"/>
+<polygon fill="#000000" stroke="#000000" points="135.5695,-962.0598 145.3535,-957.9949 135.17,-955.0713 135.5695,-962.0598"/>
 </g>
 <!-- oneEllipsoid -->
 <g id="node12" class="node">
 <title>oneEllipsoid</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-898" rx="67.6881" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-894.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneEllipsoid</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-898" rx="66.0889" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-894.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">oneEllipsoid</text>
 </g>
 <!-- oneOrb&#45;&gt;oneEllipsoid -->
 <g id="edge14" class="edge">
 <title>oneOrb&#45;&gt;oneEllipsoid</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M147.2023,-783.8464C104.9901,-780.5976 43.2997,-784.0112 17.3491,-826 8.9374,-839.6104 8.9374,-848.3896 17.3491,-862 37.6072,-894.7783 79.6454,-904.0487 117.1948,-904.993"/>
-<polygon fill="#000000" stroke="#000000" points="117.6254,-908.4954 127.6448,-905.0512 117.6645,-901.4955 117.6254,-908.4954"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M145.3535,-784.0051C103.6322,-780.9567 42.9395,-784.5939 17.3491,-826 8.9374,-839.6104 8.9374,-848.3896 17.3491,-862 37.4612,-894.542 79.2551,-903.7551 116.481,-904.7285"/>
+<polygon fill="#000000" stroke="#000000" points="116.8146,-908.2307 126.8376,-904.7971 116.8611,-901.2309 116.8146,-908.2307"/>
 </g>
 <!-- oneEllipticalTube -->
 <g id="node13" class="node">
 <title>oneEllipticalTube</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-34" rx="92.8835" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-30.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneEllipticalTube</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-34" rx="88.2844" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-30.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">oneEllipticalTube</text>
 </g>
 <!-- oneOrb&#45;&gt;oneEllipticalTube -->
 <g id="edge16" class="edge">
 <title>oneOrb&#45;&gt;oneEllipticalTube</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M147.2023,-796.1536C104.9901,-799.4024 43.2997,-795.9888 17.3491,-754 -2.6287,-721.6753 -2.6287,-102.3247 17.3491,-70 33.2786,-44.2256 62.6748,-32.9863 92.7661,-28.9009"/>
-<polygon fill="#000000" stroke="#000000" points="93.4212,-32.35 102.9792,-27.779 92.6568,-25.3919 93.4212,-32.35"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M145.3535,-795.9949C103.6322,-799.0433 42.9395,-795.4061 17.3491,-754 -2.6287,-721.6753 -2.6287,-102.3247 17.3491,-70 33.6785,-43.5785 64.3008,-32.5357 95.1664,-28.7955"/>
+<polygon fill="#000000" stroke="#000000" points="95.5617,-32.2737 105.1785,-27.8275 94.888,-25.3062 95.5617,-32.2737"/>
 </g>
 <!-- oneParaboloid -->
 <g id="node16" class="node">
 <title>oneParaboloid</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-844" rx="76.8869" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-840.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneParaboloid</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-844" rx="77.1866" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-840.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneParaboloid</text>
 </g>
 <!-- oneOrb&#45;&gt;oneParaboloid -->
 <g id="edge15" class="edge">
 <title>oneOrb&#45;&gt;oneParaboloid</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M190.2361,-808.1406C190.2361,-810.6226 190.2361,-813.1046 190.2361,-815.5865"/>
-<polygon fill="#000000" stroke="#000000" points="186.7362,-815.7901 190.2361,-825.7902 193.7362,-815.7902 186.7362,-815.7901"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M188.2863,-808.1406C188.2863,-810.6226 188.2863,-813.1046 188.2863,-815.5865"/>
+<polygon fill="#000000" stroke="#000000" points="184.7864,-815.7901 188.2863,-825.7902 191.7864,-815.7902 184.7864,-815.7901"/>
 </g>
 <!-- simpleMaterial -->
 <g id="node39" class="node">
 <title>simpleMaterial</title>
-<ellipse fill="none" stroke="#000000" cx="454.3659" cy="-1096" rx="81.4863" ry="18"/>
-<text text-anchor="middle" x="454.3659" y="-1092.3" font-family="sans-serif" font-size="14.00" fill="#000000">simpleMaterial</text>
+<ellipse fill="none" stroke="#000000" cx="448.5164" cy="-1096" rx="79.0865" ry="18"/>
+<text text-anchor="middle" x="448.5164" y="-1092.3" font-family="sans-serif" font-size="14.00" fill="#006400">simpleMaterial</text>
 </g>
 <!-- oneOrb&#45;&gt;simpleMaterial -->
 <g id="edge25" class="edge">
 <title>oneOrb&#45;&gt;simpleMaterial</title>
-<path fill="none" stroke="#000000" d="M234.118,-785.0764C269.0068,-783.7703 316.5484,-788.2512 345.1231,-817 382.9303,-855.0376 347.3568,-885.3975 365.1231,-936 382.6726,-985.9852 415.163,-1038.6566 435.7238,-1069.3598"/>
-<polygon fill="#000000" stroke="#000000" points="426.6549,-1065.9318 436.438,-1070 431.3271,-1060.7189 426.6549,-1065.9318"/>
+<path fill="none" stroke="#000000" d="M232.3241,-785.2225C266.7135,-784.1018 313.2183,-788.7634 341.2234,-817 378.9896,-855.0784 343.6938,-885.3151 361.2234,-936 378.5443,-986.0815 410.56,-1039.11 430.6321,-1069.7977"/>
+<polygon fill="#000000" stroke="#000000" points="420.6063,-1069.9493 431.2015,-1070 422.9504,-1063.3532 420.6063,-1069.9493"/>
 </g>
 <!-- oneTube -->
 <g id="node11" class="node">
 <title>oneTube</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-628" rx="50.8918" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-624.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneTube</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-628" rx="50.0912" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-624.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneTube</text>
 </g>
 <!-- oneSphere&#45;&gt;oneTube -->
 <g id="edge2" class="edge">
 <title>oneSphere&#45;&gt;oneTube</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M134.0943,-513.1065C93.0816,-511.657 40.7207,-518.184 17.3491,-556 8.9374,-569.6104 8.9374,-578.3896 17.3491,-592 40.455,-629.3861 91.8948,-636.1905 132.6912,-634.9398"/>
-<polygon fill="#000000" stroke="#000000" points="132.9864,-638.4299 142.8102,-634.462 132.6562,-631.4377 132.9864,-638.4299"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M130.6768,-513.2756C90.4604,-512.2475 40.0695,-519.2376 17.3491,-556 8.9374,-569.6104 8.9374,-578.3896 17.3491,-592 40.1318,-628.8632 90.7369,-635.7906 131.0073,-634.7158"/>
+<polygon fill="#000000" stroke="#000000" points="131.1604,-638.2125 140.9997,-634.2834 130.8577,-631.2191 131.1604,-638.2125"/>
 </g>
 <!-- oneTorus -->
 <g id="node22" class="node">
 <title>oneTorus</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-574" rx="53.8905" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-570.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneTorus</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-574" rx="53.0913" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-570.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneTorus</text>
 </g>
 <!-- oneSphere&#45;&gt;oneTorus -->
 <g id="edge5" class="edge">
 <title>oneSphere&#45;&gt;oneTorus</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M190.2361,-538.1406C190.2361,-540.6226 190.2361,-543.1046 190.2361,-545.5865"/>
-<polygon fill="#000000" stroke="#000000" points="186.7362,-545.7901 190.2361,-555.7902 193.7362,-545.7902 186.7362,-545.7901"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M188.2863,-538.1406C188.2863,-540.6226 188.2863,-543.1046 188.2863,-545.5865"/>
+<polygon fill="#000000" stroke="#000000" points="184.7864,-545.7901 188.2863,-555.7902 191.7864,-545.7902 184.7864,-545.7901"/>
 </g>
 <!-- oneBox&#45;&gt;scaledBox -->
 <g id="edge33" class="edge">
 <title>oneBox&#45;&gt;scaledBox</title>
-<path fill="none" stroke="#000000" d="M233.2117,-957.467C317.8014,-968.2279 506.2896,-992.2059 605.6375,-1004.8441"/>
-<polygon fill="#000000" stroke="#000000" points="605.4799,-1008.3522 615.8416,-1006.1422 606.3633,-1001.4082 605.4799,-1008.3522"/>
+<path fill="none" stroke="#000000" d="M231.8785,-957.6294C315.7019,-968.4541 499.669,-992.2112 597.1389,-1004.7982"/>
+<polygon fill="#000000" stroke="#000000" points="596.7878,-1008.2819 607.1538,-1006.0915 597.6844,-1001.3395 596.7878,-1008.2819"/>
 </g>
 <!-- oneParallelepiped -->
 <g id="node17" class="node">
 <title>oneParallelepiped</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-1060" rx="93.6835" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-1056.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneParallelepiped</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-1060" rx="93.6835" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-1056.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneParallelepiped</text>
 </g>
 <!-- oneBox&#45;&gt;oneParallelepiped -->
 <g id="edge7" class="edge">
 <title>oneBox&#45;&gt;oneParallelepiped</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M147.9866,-945.9077C105.7578,-942.5567 43.4608,-945.7504 17.3491,-988 8.9374,-1001.6104 8.9374,-1010.3896 17.3491,-1024 33.1338,-1049.5401 62.1414,-1060.8081 91.9456,-1064.9859"/>
-<polygon fill="#000000" stroke="#000000" points="91.7332,-1068.4843 102.0657,-1066.1413 92.5273,-1061.5295 91.7332,-1068.4843"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M145.3535,-946.0051C103.6322,-942.9567 42.9395,-946.5939 17.3491,-988 8.9374,-1001.6104 8.9374,-1010.3896 17.3491,-1024 32.61,-1048.6927 60.3547,-1059.9533 89.1148,-1064.3743"/>
+<polygon fill="#000000" stroke="#000000" points="88.951,-1067.8813 99.3111,-1065.6635 89.8292,-1060.9366 88.951,-1067.8813"/>
 </g>
 <!-- oneTrapezoid -->
 <g id="node23" class="node">
 <title>oneTrapezoid</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-1006" rx="73.387" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-1002.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneTrapezoid</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-1006" rx="73.387" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-1002.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneTrapezoid</text>
 </g>
 <!-- oneBox&#45;&gt;oneTrapezoid -->
 <g id="edge9" class="edge">
 <title>oneBox&#45;&gt;oneTrapezoid</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M190.2361,-970.1406C190.2361,-972.6226 190.2361,-975.1046 190.2361,-977.5865"/>
-<polygon fill="#000000" stroke="#000000" points="186.7362,-977.7901 190.2361,-987.7902 193.7362,-977.7902 186.7362,-977.7901"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M188.2863,-970.1406C188.2863,-972.6226 188.2863,-975.1046 188.2863,-977.5865"/>
+<polygon fill="#000000" stroke="#000000" points="184.7864,-977.7901 188.2863,-987.7902 191.7864,-977.7902 184.7864,-977.7901"/>
 </g>
 <!-- oneTwistedBox -->
 <g id="node27" class="node">
 <title>oneTwistedBox</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-1114" rx="81.4863" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-1110.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneTwistedBox</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-1114" rx="79.8859" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-1110.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">oneTwistedBox</text>
 </g>
 <!-- oneBox&#45;&gt;oneTwistedBox -->
 <g id="edge8" class="edge">
 <title>oneBox&#45;&gt;oneTwistedBox</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M147.9866,-945.9077C105.7578,-942.5567 43.4608,-945.7504 17.3491,-988 -3.6801,-1022.026 -3.6801,-1043.974 17.3491,-1078 35.4668,-1107.3151 71.0053,-1117.8273 105.1734,-1120.3969"/>
-<polygon fill="#000000" stroke="#000000" points="105.0607,-1123.8958 115.2337,-1120.9362 105.4354,-1116.9059 105.0607,-1123.8958"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M145.3535,-946.0051C103.6322,-942.9567 42.9395,-946.5939 17.3491,-988 -3.6801,-1022.026 -3.6801,-1043.974 17.3491,-1078 35.1219,-1106.7569 69.826,-1117.2963 103.3472,-1120.0307"/>
+<polygon fill="#000000" stroke="#000000" points="103.5038,-1123.5459 113.6923,-1120.6403 103.9156,-1116.558 103.5038,-1123.5459"/>
 </g>
 <!-- twoBoxes -->
-<g id="node44" class="node">
+<g id="node43" class="node">
 <title>twoBoxes</title>
-<ellipse fill="none" stroke="#000000" cx="454.3659" cy="-909" rx="55.7903" ry="18"/>
-<text text-anchor="middle" x="454.3659" y="-905.3" font-family="sans-serif" font-size="14.00" fill="#000000">twoBoxes</text>
+<ellipse fill="none" stroke="#000000" cx="448.5164" cy="-909" rx="55.4913" ry="18"/>
+<text text-anchor="middle" x="448.5164" y="-905.3" font-family="sans-serif" font-size="14.00" fill="#006400">twoBoxes</text>
 </g>
 <!-- oneBox&#45;&gt;twoBoxes -->
 <g id="edge34" class="edge">
 <title>oneBox&#45;&gt;twoBoxes</title>
-<path fill="none" stroke="#000000" d="M231.7969,-945.2339C275.4256,-938.1313 344.4452,-926.8949 394.0603,-918.8177"/>
-<polygon fill="#000000" stroke="#000000" points="394.7162,-922.2571 404.0238,-917.1956 393.5913,-915.348 394.7162,-922.2571"/>
+<path fill="none" stroke="#000000" d="M230.386,-945.0435C273.3609,-937.9424 340.4508,-926.8566 388.8821,-918.8539"/>
+<polygon fill="#000000" stroke="#000000" points="389.6226,-922.2791 398.9182,-917.1955 388.4813,-915.3727 389.6226,-922.2791"/>
 </g>
 <!-- oneCutTube -->
 <g id="node26" class="node">
 <title>oneCutTube</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-736" rx="67.6881" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-732.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneCutTube</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-736" rx="65.7887" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-732.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneCutTube</text>
 </g>
 <!-- oneTube&#45;&gt;oneCutTube -->
 <g id="edge3" class="edge">
 <title>oneTube&#45;&gt;oneCutTube</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M142.8102,-621.538C100.8169,-618.8758 42.4131,-623.4456 17.3491,-664 8.9374,-677.6104 8.9374,-686.3896 17.3491,-700 37.6072,-732.7783 79.6454,-742.0487 117.1948,-742.993"/>
-<polygon fill="#000000" stroke="#000000" points="117.6254,-746.4954 127.6448,-743.0512 117.6645,-739.4955 117.6254,-746.4954"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M140.9997,-621.7166C99.5138,-619.2503 42.0626,-624.0128 17.3491,-664 8.9374,-677.6104 8.9374,-686.3896 17.3491,-700 37.5341,-732.6599 79.5582,-741.8216 116.8854,-742.7388"/>
+<polygon fill="#000000" stroke="#000000" points="117.2493,-746.2406 127.267,-742.7915 117.2849,-739.2407 117.2493,-746.2406"/>
 </g>
 <!-- oneTwistedTube -->
 <g id="node30" class="node">
 <title>oneTwistedTube</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-682" rx="87.1846" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-678.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneTwistedTube</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-682" rx="85.2851" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-678.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">oneTwistedTube</text>
 </g>
 <!-- oneTube&#45;&gt;oneTwistedTube -->
 <g id="edge4" class="edge">
 <title>oneTube&#45;&gt;oneTwistedTube</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M190.2361,-646.1406C190.2361,-648.6226 190.2361,-651.1046 190.2361,-653.5865"/>
-<polygon fill="#000000" stroke="#000000" points="186.7362,-653.7901 190.2361,-663.7902 193.7362,-653.7902 186.7362,-653.7901"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M188.2863,-646.1406C188.2863,-648.6226 188.2863,-651.1046 188.2863,-653.5865"/>
+<polygon fill="#000000" stroke="#000000" points="184.7864,-653.7901 188.2863,-663.7902 191.7864,-653.7902 184.7864,-653.7901"/>
 </g>
 <!-- oneEllipticalCone -->
 <g id="node14" class="node">
 <title>oneEllipticalCone</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-142" rx="92.8835" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-138.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneEllipticalCone</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-142" rx="90.1842" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-138.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">oneEllipticalCone</text>
 </g>
 <!-- oneEllipticalTube&#45;&gt;oneEllipticalCone -->
 <g id="edge18" class="edge">
 <title>oneEllipticalTube&#45;&gt;oneEllipticalCone</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M102.9792,-27.779C69.493,-30.631 35.0793,-41.312 17.3491,-70 8.9374,-83.6104 8.9374,-92.3896 17.3491,-106 33.2786,-131.7744 62.6748,-143.0137 92.7661,-147.0991"/>
-<polygon fill="#000000" stroke="#000000" points="92.6568,-150.6081 102.9792,-148.221 93.4212,-143.65 92.6568,-150.6081"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M105.1785,-27.8275C71.0964,-30.3256 35.4457,-40.7191 17.3491,-70 8.9374,-83.6104 8.9374,-92.3896 17.3491,-106 33.2497,-131.7276 62.7024,-142.8737 92.7356,-146.8946"/>
+<polygon fill="#000000" stroke="#000000" points="92.6061,-150.4009 102.9243,-147.9958 93.3583,-143.4414 92.6061,-150.4009"/>
 </g>
 <!-- oneHyperbolicTube -->
 <g id="node25" class="node">
 <title>oneHyperbolicTube</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-88" rx="102.8821" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-84.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneHyperbolicTube</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-88" rx="99.3824" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-84.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneHyperbolicTube</text>
 </g>
 <!-- oneEllipticalTube&#45;&gt;oneHyperbolicTube -->
 <g id="edge17" class="edge">
 <title>oneEllipticalTube&#45;&gt;oneHyperbolicTube</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M190.2361,-52.1406C190.2361,-54.6226 190.2361,-57.1046 190.2361,-59.5865"/>
-<polygon fill="#000000" stroke="#000000" points="186.7362,-59.7901 190.2361,-69.7902 193.7362,-59.7902 186.7362,-59.7901"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M188.2863,-52.1406C188.2863,-54.6226 188.2863,-57.1046 188.2863,-59.5865"/>
+<polygon fill="#000000" stroke="#000000" points="184.7864,-59.7901 188.2863,-69.7902 191.7864,-59.7902 184.7864,-59.7901"/>
 </g>
 <!-- oneConeSegment -->
 <g id="node15" class="node">
 <title>oneConeSegment</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-196" rx="92.8835" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-192.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneConeSegment</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-196" rx="94.4839" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-192.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneConeSegment</text>
 </g>
 <!-- oneEllipticalCone&#45;&gt;oneConeSegment -->
 <g id="edge19" class="edge">
 <title>oneEllipticalCone&#45;&gt;oneConeSegment</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M190.2361,-160.1406C190.2361,-162.6226 190.2361,-165.1046 190.2361,-167.5865"/>
-<polygon fill="#000000" stroke="#000000" points="186.7362,-167.7901 190.2361,-177.7902 193.7362,-167.7902 186.7362,-167.7901"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M188.2863,-160.1406C188.2863,-162.6226 188.2863,-165.1046 188.2863,-167.5865"/>
+<polygon fill="#000000" stroke="#000000" points="184.7864,-167.7901 188.2863,-177.7902 191.7864,-167.7902 184.7864,-167.7901"/>
 </g>
 <!-- onePolycone -->
 <g id="node18" class="node">
 <title>onePolycone</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-250" rx="68.7879" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-246.3" font-family="sans-serif" font-size="14.00" fill="#000000">onePolycone</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-250" rx="69.5877" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-246.3" font-family="sans-serif" font-size="14.00" fill="#006400">onePolycone</text>
 </g>
 <!-- oneConeSegment&#45;&gt;onePolycone -->
 <g id="edge20" class="edge">
 <title>oneConeSegment&#45;&gt;onePolycone</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M190.2361,-214.1406C190.2361,-216.6226 190.2361,-219.1046 190.2361,-221.5865"/>
-<polygon fill="#000000" stroke="#000000" points="186.7362,-221.7901 190.2361,-231.7902 193.7362,-221.7902 186.7362,-221.7901"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M188.2863,-214.1406C188.2863,-216.6226 188.2863,-219.1046 188.2863,-221.5865"/>
+<polygon fill="#000000" stroke="#000000" points="184.7864,-221.7901 188.2863,-231.7902 191.7864,-221.7902 184.7864,-221.7901"/>
 </g>
 <!-- oneGenericPolycone -->
 <g id="node19" class="node">
 <title>oneGenericPolycone</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-412" rx="105.0817" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-408.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneGenericPolycone</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-412" rx="105.0817" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-408.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">oneGenericPolycone</text>
 </g>
 <!-- onePolycone&#45;&gt;oneGenericPolycone -->
 <g id="edge21" class="edge">
 <title>onePolycone&#45;&gt;oneGenericPolycone</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M126.7729,-242.9385C87.0424,-242.5298 39.3507,-250.4008 17.3491,-286 -3.6801,-320.026 -3.6801,-341.974 17.3491,-376 30.6537,-397.5272 53.3525,-408.9149 78.0043,-414.4637"/>
-<polygon fill="#000000" stroke="#000000" points="77.4252,-417.9165 87.9072,-416.3748 78.7516,-411.0433 77.4252,-417.9165"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M123.814,-243.1821C84.8897,-243.1262 38.794,-251.3014 17.3491,-286 -3.6801,-320.026 -3.6801,-341.974 17.3491,-376 30.1013,-396.6335 51.5703,-407.8881 75.0646,-413.6102"/>
+<polygon fill="#000000" stroke="#000000" points="74.3676,-417.0401 84.8735,-415.6704 75.8064,-410.1896 74.3676,-417.0401"/>
 </g>
 <!-- onePolyhedron -->
 <g id="node20" class="node">
 <title>onePolyhedron</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-358" rx="79.0865" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-354.3" font-family="sans-serif" font-size="14.00" fill="#000000">onePolyhedron</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-358" rx="79.8859" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-354.3" font-family="sans-serif" font-size="14.00" fill="#006400">onePolyhedron</text>
 </g>
 <!-- onePolycone&#45;&gt;onePolyhedron -->
 <g id="edge23" class="edge">
 <title>onePolycone&#45;&gt;onePolyhedron</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M126.7729,-242.9385C87.0424,-242.5298 39.3507,-250.4008 17.3491,-286 8.9374,-299.6104 8.9374,-308.3896 17.3491,-322 35.7602,-351.7898 72.1609,-362.1629 106.8323,-364.5156"/>
-<polygon fill="#000000" stroke="#000000" points="106.8787,-368.0214 117.0302,-364.9888 107.2032,-361.0289 106.8787,-368.0214"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M123.814,-243.1821C84.8897,-243.1262 38.794,-251.3014 17.3491,-286 8.9374,-299.6104 8.9374,-308.3896 17.3491,-322 35.1219,-350.7569 69.826,-361.2963 103.3472,-364.0307"/>
+<polygon fill="#000000" stroke="#000000" points="103.5038,-367.5459 113.6923,-364.6403 103.9156,-360.558 103.5038,-367.5459"/>
 </g>
 <!-- oneExtrudedSolid -->
 <g id="node31" class="node">
 <title>oneExtrudedSolid</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-304" rx="94.4839" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-300.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneExtrudedSolid</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-304" rx="92.8835" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-300.3" font-family="sans-serif" font-size="14.00" fill="#b22222">oneExtrudedSolid</text>
 </g>
 <!-- onePolycone&#45;&gt;oneExtrudedSolid -->
 <g id="edge24" class="edge">
 <title>onePolycone&#45;&gt;oneExtrudedSolid</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M190.2361,-268.1406C190.2361,-270.6226 190.2361,-273.1046 190.2361,-275.5865"/>
-<polygon fill="#000000" stroke="#000000" points="186.7362,-275.7901 190.2361,-285.7902 193.7362,-275.7902 186.7362,-275.7901"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M188.2863,-268.1406C188.2863,-270.6226 188.2863,-273.1046 188.2863,-275.5865"/>
+<polygon fill="#000000" stroke="#000000" points="184.7864,-275.7901 188.2863,-285.7902 191.7864,-275.7902 184.7864,-275.7901"/>
 </g>
 <!-- oneGenericPolyhedron -->
 <g id="node21" class="node">
 <title>oneGenericPolyhedron</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-466" rx="116.1796" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-462.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneGenericPolyhedron</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-466" rx="116.1796" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-462.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">oneGenericPolyhedron</text>
 </g>
 <!-- oneGenericPolycone&#45;&gt;oneGenericPolyhedron -->
 <g id="edge22" class="edge">
 <title>oneGenericPolycone&#45;&gt;oneGenericPolyhedron</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M190.2361,-430.1406C190.2361,-432.6226 190.2361,-435.1046 190.2361,-437.5865"/>
-<polygon fill="#000000" stroke="#000000" points="186.7362,-437.7901 190.2361,-447.7902 193.7362,-437.7902 186.7362,-437.7901"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M188.2863,-430.1406C188.2863,-432.6226 188.2863,-435.1046 188.2863,-437.5865"/>
+<polygon fill="#000000" stroke="#000000" points="184.7864,-437.7901 188.2863,-447.7902 191.7864,-437.7902 184.7864,-437.7901"/>
 </g>
 <!-- oneGeneralTrapezoid -->
 <g id="node24" class="node">
 <title>oneGeneralTrapezoid</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-1168" rx="110.4804" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-1164.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneGeneralTrapezoid</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-1168" rx="110.4804" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-1164.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneGeneralTrapezoid</text>
 </g>
 <!-- oneTrapezoid&#45;&gt;oneGeneralTrapezoid -->
 <g id="edge12" class="edge">
 <title>oneTrapezoid&#45;&gt;oneGeneralTrapezoid</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M122.3765,-998.9279C83.5829,-999.1436 38.5447,-1007.7048 17.3491,-1042 -3.6801,-1076.026 -3.6801,-1097.974 17.3491,-1132 29.424,-1151.5376 49.2369,-1162.7233 71.225,-1168.7722"/>
-<polygon fill="#000000" stroke="#000000" points="70.5722,-1172.2146 81.1114,-1171.1305 72.1964,-1165.4056 70.5722,-1172.2146"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M119.8843,-999.2048C81.8328,-999.7029 38.0765,-1008.4624 17.3491,-1042 -3.6801,-1076.026 -3.6801,-1097.974 17.3491,-1132 28.9634,-1150.7924 47.8083,-1161.8049 68.8285,-1167.9436"/>
+<polygon fill="#000000" stroke="#000000" points="68.0674,-1171.3613 78.6213,-1170.4315 69.7911,-1164.5769 68.0674,-1171.3613"/>
 </g>
 <!-- oneTwistedTrapezoid -->
 <g id="node28" class="node">
 <title>oneTwistedTrapezoid</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-1276" rx="110.4804" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-1272.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneTwistedTrapezoid</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-1276" rx="107.781" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-1272.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">oneTwistedTrapezoid</text>
 </g>
 <!-- oneTrapezoid&#45;&gt;oneTwistedTrapezoid -->
 <g id="edge10" class="edge">
 <title>oneTrapezoid&#45;&gt;oneTwistedTrapezoid</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M122.3765,-998.9279C83.5829,-999.1436 38.5447,-1007.7048 17.3491,-1042 -5.783,-1079.4286 -5.783,-1202.5714 17.3491,-1240 29.424,-1259.5376 49.2369,-1270.7233 71.225,-1276.7722"/>
-<polygon fill="#000000" stroke="#000000" points="70.5722,-1280.2146 81.1114,-1279.1305 72.1964,-1273.4056 70.5722,-1280.2146"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M119.8843,-999.2048C81.8328,-999.7029 38.0765,-1008.4624 17.3491,-1042 -5.783,-1079.4286 -5.783,-1202.5714 17.3491,-1240 29.5019,-1259.6636 49.5711,-1270.8093 71.7654,-1276.7662"/>
+<polygon fill="#000000" stroke="#000000" points="71.207,-1280.2295 81.7394,-1279.0806 72.7894,-1273.4107 71.207,-1280.2295"/>
 </g>
 <!-- oneArbitraryTrapezoid -->
 <g id="node32" class="node">
 <title>oneArbitraryTrapezoid</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-1222" rx="116.9792" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-1218.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneArbitraryTrapezoid</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-1222" rx="114.2798" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-1218.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneArbitraryTrapezoid</text>
 </g>
 <!-- oneTrapezoid&#45;&gt;oneArbitraryTrapezoid -->
 <g id="edge11" class="edge">
 <title>oneTrapezoid&#45;&gt;oneArbitraryTrapezoid</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M122.3765,-998.9279C83.5829,-999.1436 38.5447,-1007.7048 17.3491,-1042 .5257,-1069.2208 .5257,-1158.7792 17.3491,-1186 28.0354,-1203.2908 44.7822,-1214.0401 63.7338,-1220.4766"/>
-<polygon fill="#000000" stroke="#000000" points="62.9269,-1223.888 73.5095,-1223.3804 64.9201,-1217.1778 62.9269,-1223.888"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M119.8843,-999.2048C81.8328,-999.7029 38.0765,-1008.4624 17.3491,-1042 .5257,-1069.2208 .5257,-1158.7792 17.3491,-1186 28.1737,-1203.5145 45.279,-1214.2713 64.5724,-1220.6228"/>
+<polygon fill="#000000" stroke="#000000" points="63.6234,-1223.9917 74.2015,-1223.3973 65.5615,-1217.2654 63.6234,-1223.9917"/>
 </g>
 <!-- oneTwistedGeneralTrapezoid -->
 <g id="node29" class="node">
 <title>oneTwistedGeneralTrapezoid</title>
-<ellipse fill="none" stroke="#000000" cx="190.2361" cy="-1330" rx="146.774" ry="18"/>
-<text text-anchor="middle" x="190.2361" y="-1326.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneTwistedGeneralTrapezoid</text>
+<ellipse fill="none" stroke="#000000" cx="188.2863" cy="-1330" rx="144.8743" ry="18"/>
+<text text-anchor="middle" x="188.2863" y="-1326.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">oneTwistedGeneralTrapezoid</text>
 </g>
 <!-- oneGeneralTrapezoid&#45;&gt;oneTwistedGeneralTrapezoid -->
 <g id="edge13" class="edge">
 <title>oneGeneralTrapezoid&#45;&gt;oneTwistedGeneralTrapezoid</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M81.1114,-1164.8695C55.2703,-1170.149 31.2109,-1181.5712 17.3491,-1204 -3.6801,-1238.026 -3.6801,-1259.974 17.3491,-1294 23.8972,-1304.595 32.7208,-1312.7339 42.9329,-1318.9295"/>
-<polygon fill="#000000" stroke="#000000" points="41.3503,-1322.0522 51.8181,-1323.6879 44.6551,-1315.8814 41.3503,-1322.0522"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M78.6213,-1165.5685C53.7502,-1171.0043 30.7422,-1182.3295 17.3491,-1204 -3.6801,-1238.026 -3.6801,-1259.974 17.3491,-1294 23.951,-1304.6821 32.8891,-1312.8504 43.235,-1319.0388"/>
+<polygon fill="#000000" stroke="#000000" points="41.7579,-1322.2166 52.2363,-1323.783 45.0218,-1316.024 41.7579,-1322.2166"/>
 </g>
 <!-- oneTetrahedron -->
 <g id="node34" class="node">
 <title>oneTetrahedron</title>
-<ellipse fill="none" stroke="#000000" cx="904.6323" cy="-830" rx="85.2851" ry="18"/>
-<text text-anchor="middle" x="904.6323" y="-826.3" font-family="sans-serif" font-size="14.00" fill="#000000">oneTetrahedron</text>
+<ellipse fill="none" stroke="#000000" cx="893.5833" cy="-830" rx="85.2851" ry="18"/>
+<text text-anchor="middle" x="893.5833" y="-826.3" font-family="sans-serif" font-size="14.00" fill="#006400">oneTetrahedron</text>
 </g>
 <!-- solidIntersection -->
 <g id="node36" class="node">
 <title>solidIntersection</title>
-<ellipse fill="none" stroke="#000000" cx="904.6323" cy="-693" rx="89.8845" ry="18"/>
-<text text-anchor="middle" x="904.6323" y="-689.3" font-family="sans-serif" font-size="14.00" fill="#000000">solidIntersection</text>
+<ellipse fill="none" stroke="#000000" cx="893.5833" cy="-693" rx="87.1846" ry="18"/>
+<text text-anchor="middle" x="893.5833" y="-689.3" font-family="sans-serif" font-size="14.00" fill="#006400">solidIntersection</text>
 </g>
 <!-- solidUnion&#45;&gt;solidIntersection -->
 <g id="edge43" class="edge">
 <title>solidUnion&#45;&gt;solidIntersection</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M844.1051,-585.4816C819.4642,-589.2949 793.9691,-598.8774 781.8912,-621 774.2242,-635.0434 774.2242,-642.9566 781.8912,-657 788.3782,-668.882 798.7358,-677.1466 810.7528,-682.8427"/>
-<polygon fill="#000000" stroke="#000000" points="809.6481,-686.1722 820.229,-686.7152 812.2962,-679.6923 809.6481,-686.1722"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M834.3525,-585.4328C809.5444,-589.1642 783.67,-598.6943 771.4921,-621 763.8251,-635.0434 763.8251,-642.9566 771.4921,-657 778.2239,-669.3302 789.1409,-677.7566 801.7495,-683.4577"/>
+<polygon fill="#000000" stroke="#000000" points="800.6057,-686.7684 811.1939,-687.1441 803.151,-680.2475 800.6057,-686.7684"/>
 </g>
 <!-- solidMultiUnion -->
 <g id="node38" class="node">
 <title>solidMultiUnion</title>
-<ellipse fill="none" stroke="#000000" cx="904.6323" cy="-639" rx="85.2851" ry="18"/>
-<text text-anchor="middle" x="904.6323" y="-635.3" font-family="sans-serif" font-size="14.00" fill="#000000">solidMultiUnion</text>
+<ellipse fill="none" stroke="#000000" cx="893.5833" cy="-639" rx="81.4863" ry="18"/>
+<text text-anchor="middle" x="893.5833" y="-635.3" font-family="sans-serif" font-size="14.00" fill="#006400">solidMultiUnion</text>
 </g>
 <!-- solidUnion&#45;&gt;solidMultiUnion -->
 <g id="edge45" class="edge">
 <title>solidUnion&#45;&gt;solidMultiUnion</title>
-<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M904.6323,-603.1406C904.6323,-605.6226 904.6323,-608.1046 904.6323,-610.5865"/>
-<polygon fill="#000000" stroke="#000000" points="901.1324,-610.7901 904.6323,-620.7902 908.1324,-610.7902 901.1324,-610.7901"/>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M893.5833,-603.1406C893.5833,-605.6226 893.5833,-608.1046 893.5833,-610.5865"/>
+<polygon fill="#000000" stroke="#000000" points="890.0834,-610.7901 893.5833,-620.7902 897.0834,-610.7902 890.0834,-610.7901"/>
 </g>
 <!-- solidSubtraction -->
 <g id="node37" class="node">
 <title>solidSubtraction</title>
-<ellipse fill="none" stroke="#000000" cx="904.6323" cy="-747" rx="87.9851" ry="18"/>
-<text text-anchor="middle" x="904.6323" y="-743.3" font-family="sans-serif" font-size="14.00" fill="#000000">solidSubtraction</text>
+<ellipse fill="none" stroke="#000000" cx="893.5833" cy="-747" rx="85.2851" ry="18"/>
+<text text-anchor="middle" x="893.5833" y="-743.3" font-family="sans-serif" font-size="14.00" fill="#006400">solidSubtraction</text>
 </g>
 <!-- solidIntersection&#45;&gt;solidSubtraction -->
 <g id="edge44" class="edge">
 <title>solidIntersection&#45;&gt;solidSubtraction</title>
-<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M904.6323,-711.1406C904.6323,-713.6226 904.6323,-716.1046 904.6323,-718.5865"/>
-<polygon fill="#000000" stroke="#000000" points="901.1324,-718.7901 904.6323,-728.7902 908.1324,-718.7902 901.1324,-718.7901"/>
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M893.5833,-711.1406C893.5833,-713.6226 893.5833,-716.1046 893.5833,-718.5865"/>
+<polygon fill="#000000" stroke="#000000" points="890.0834,-718.7901 893.5833,-728.7902 897.0834,-718.7902 890.0834,-718.7901"/>
 </g>
 <!-- compositeMaterial -->
 <g id="node40" class="node">
 <title>compositeMaterial</title>
-<ellipse fill="none" stroke="#000000" cx="669.7499" cy="-1150" rx="98.2828" ry="18"/>
-<text text-anchor="middle" x="669.7499" y="-1146.3" font-family="sans-serif" font-size="14.00" fill="#000000">compositeMaterial</text>
+<ellipse fill="none" stroke="#000000" cx="660.6507" cy="-1150" rx="96.6831" ry="18"/>
+<text text-anchor="middle" x="660.6507" y="-1146.3" font-family="sans-serif" font-size="14.00" fill="#006400">compositeMaterial</text>
 </g>
 <!-- simpleMaterial&#45;&gt;compositeMaterial -->
 <g id="edge29" class="edge">
 <title>simpleMaterial&#45;&gt;compositeMaterial</title>
-<path fill="none" stroke="#000000" d="M508.4383,-1109.5568C536.6511,-1116.6301 571.4555,-1125.3561 601.5051,-1132.89"/>
-<polygon fill="#000000" stroke="#000000" points="600.9462,-1136.3581 611.4972,-1135.3952 602.6486,-1129.5683 600.9462,-1136.3581"/>
+<path fill="none" stroke="#000000" d="M501.4996,-1109.4872C529.3945,-1116.588 563.8892,-1125.3688 593.6258,-1132.9384"/>
+<polygon fill="#000000" stroke="#000000" points="592.9572,-1136.3798 603.5116,-1135.4549 594.6841,-1129.5961 592.9572,-1136.3798"/>
 </g>
 <!-- mixtureMaterial -->
 <g id="node42" class="node">
 <title>mixtureMaterial</title>
-<ellipse fill="none" stroke="#000000" cx="669.7499" cy="-1096" rx="87.1846" ry="18"/>
-<text text-anchor="middle" x="669.7499" y="-1092.3" font-family="sans-serif" font-size="14.00" fill="#000000">mixtureMaterial</text>
+<ellipse fill="none" stroke="#000000" cx="660.6507" cy="-1096" rx="84.485" ry="18"/>
+<text text-anchor="middle" x="660.6507" y="-1092.3" font-family="sans-serif" font-size="14.00" fill="#006400">mixtureMaterial</text>
 </g>
 <!-- simpleMaterial&#45;&gt;mixtureMaterial -->
 <g id="edge31" class="edge">
 <title>simpleMaterial&#45;&gt;mixtureMaterial</title>
-<path fill="none" stroke="#000000" d="M535.7933,-1096C547.706,-1096 560.0754,-1096 572.2685,-1096"/>
-<polygon fill="#000000" stroke="#000000" points="572.4555,-1099.5001 582.4555,-1096 572.4554,-1092.5001 572.4555,-1099.5001"/>
+<path fill="none" stroke="#000000" d="M528.1109,-1096C540.449,-1096 553.2975,-1096 565.929,-1096"/>
+<polygon fill="#000000" stroke="#000000" points="565.9988,-1099.5001 575.9987,-1096 565.9987,-1092.5001 565.9988,-1099.5001"/>
 </g>
 <!-- mixtureElement -->
 <g id="node41" class="node">
 <title>mixtureElement</title>
-<ellipse fill="none" stroke="#000000" cx="904.6323" cy="-1150" rx="86.3847" ry="18"/>
-<text text-anchor="middle" x="904.6323" y="-1146.3" font-family="sans-serif" font-size="14.00" fill="#000000">mixtureElement</text>
+<ellipse fill="none" stroke="#000000" cx="893.5833" cy="-1150" rx="85.2851" ry="18"/>
+<text text-anchor="middle" x="893.5833" y="-1146.3" font-family="sans-serif" font-size="14.00" fill="#006400">mixtureElement</text>
 </g>
 <!-- compositeMaterial&#45;&gt;mixtureElement -->
 <g id="edge30" class="edge">
 <title>compositeMaterial&#45;&gt;mixtureElement</title>
-<path fill="none" stroke="#000000" d="M768.0003,-1150C781.2234,-1150 794.7802,-1150 807.9755,-1150"/>
-<polygon fill="#000000" stroke="#000000" points="807.984,-1153.5001 817.984,-1150 807.9839,-1146.5001 807.984,-1153.5001"/>
+<path fill="none" stroke="#000000" d="M757.7484,-1150C771.0781,-1150 784.7561,-1150 798.0573,-1150"/>
+<polygon fill="#000000" stroke="#000000" points="798.1434,-1153.5001 808.1434,-1150 798.1433,-1146.5001 798.1434,-1153.5001"/>
 </g>
 <!-- mixtureMaterial&#45;&gt;auxiliary -->
 <g id="edge32" class="edge">
 <title>mixtureMaterial&#45;&gt;auxiliary</title>
-<path fill="none" stroke="#000000" d="M726.9479,-1082.3774C740.7473,-1078.0528 755.1717,-1072.6271 767.8912,-1066 810.7728,-1043.6579 853.6024,-1007.305 879.6093,-983.2709"/>
-<polygon fill="#000000" stroke="#000000" points="882.2144,-985.6265 887.1218,-976.2367 877.4299,-980.5168 882.2144,-985.6265"/>
+<path fill="none" stroke="#000000" d="M716.5916,-1082.4785C730.3613,-1078.1292 744.7906,-1072.6667 757.4921,-1066 800.1797,-1043.5943 842.8032,-1007.2574 868.6833,-983.2443"/>
+<polygon fill="#000000" stroke="#000000" points="871.2703,-985.6162 876.1591,-976.2167 866.4757,-980.5159 871.2703,-985.6162"/>
 </g>
 <!-- twoBoxes&#45;&gt;aPosition -->
 <g id="edge36" class="edge">
 <title>twoBoxes&#45;&gt;aPosition</title>
-<path fill="none" stroke="#000000" d="M497.4344,-897.4022C532.1082,-888.0651 580.9652,-874.9085 617.8051,-864.988"/>
-<polygon fill="#000000" stroke="#000000" points="619.1095,-868.2615 627.8554,-862.2816 617.2893,-861.5023 619.1095,-868.2615"/>
+<path fill="none" stroke="#000000" d="M490.9351,-897.4022C525.1962,-888.0348 573.5171,-874.8233 609.8416,-864.8918"/>
+<polygon fill="#000000" stroke="#000000" points="611.0243,-868.197 619.7471,-862.1835 609.1781,-861.4448 611.0243,-868.197"/>
 </g>
 <!-- twoBoxes&#45;&gt;aRotation -->
 <g id="edge37" class="edge">
 <title>twoBoxes&#45;&gt;aRotation</title>
-<path fill="none" stroke="#000000" d="M499.7801,-919.5426C533.2858,-927.3208 579.0458,-937.9436 614.6451,-946.2078"/>
-<polygon fill="#000000" stroke="#000000" points="613.8654,-949.6198 624.3978,-948.4718 615.4483,-942.8011 613.8654,-949.6198"/>
+<path fill="none" stroke="#000000" d="M493.5046,-919.6037C526.2702,-927.3265 570.832,-937.8297 605.7043,-946.0491"/>
+<polygon fill="#000000" stroke="#000000" points="605.1911,-949.524 615.7273,-948.4116 606.797,-942.7107 605.1911,-949.524"/>
 </g>
 <!-- twoBoxes&#45;&gt;scaledPhysvol -->
 <g id="edge35" class="edge">
 <title>twoBoxes&#45;&gt;scaledPhysvol</title>
-<path fill="none" stroke="#000000" d="M510.3932,-907.9595C532.5223,-907.5485 558.4656,-907.0667 582.9171,-906.6126"/>
-<polygon fill="#000000" stroke="#000000" points="582.9916,-910.1119 592.9249,-906.4268 582.8616,-903.1131 582.9916,-910.1119"/>
+<path fill="none" stroke="#000000" d="M503.6984,-907.9595C525.5041,-907.5483 551.0702,-907.0662 575.163,-906.612"/>
+<polygon fill="#000000" stroke="#000000" points="575.4508,-910.1072 585.383,-906.4192 575.3188,-903.1085 575.4508,-910.1072"/>
 </g>
 </g>
 </svg>
