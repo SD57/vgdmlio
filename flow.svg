@@ -50,7 +50,7 @@
 <g id="node44" class="node">
 <title>auxiliary</title>
 <ellipse fill="none" stroke="#000000" cx="893.5833" cy="-959" rx="50.0912" ry="18"/>
-<text text-anchor="middle" x="893.5833" y="-955.3" font-family="sans-serif" font-size="14.00" fill="#b22222">auxiliary</text>
+<text text-anchor="middle" x="893.5833" y="-955.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">auxiliary</text>
 </g>
 <!-- aVariable&#45;&gt;auxiliary -->
 <g id="edge46" class="edge">
@@ -404,7 +404,7 @@
 <g id="node31" class="node">
 <title>oneExtrudedSolid</title>
 <ellipse fill="none" stroke="#000000" cx="188.2863" cy="-304" rx="92.8835" ry="18"/>
-<text text-anchor="middle" x="188.2863" y="-300.3" font-family="sans-serif" font-size="14.00" fill="#b22222">oneExtrudedSolid</text>
+<text text-anchor="middle" x="188.2863" y="-300.3" font-family="sans-serif" font-size="14.00" fill="#0000cd">oneExtrudedSolid</text>
 </g>
 <!-- onePolycone&#45;&gt;oneExtrudedSolid -->
 <g id="edge24" class="edge">
